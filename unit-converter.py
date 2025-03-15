@@ -31,7 +31,6 @@ if st.button("Convert"):
     else:
         st.warning("Conversion not supported for the selected units.")
 
-# PowerShell commands to activate virtual environment and run Streamlit
-# command
+# command run the powershell
 # .venv\Scripts\Activate
 # streamlit run unit-converter.py
